@@ -1,0 +1,79 @@
+Date,Salesman,Client,Product,Units Sold,Unit Price,Expected Sales,Actual Sales,Invoice No.,Payment Status,Delivery Status
+01/01/2022,John,XYZ Liquor,Vodka,100,$25,"$2,500","$2,500",INV001,Paid,Delivered
+01/01/2022,Sarah,SuperMart,Gin,75,$35,"$2,625","$2,625",INV002,Paid,Delivered
+01/01/2022,Mike,BevMo,Whiskey,50,$30,"$1,500","$1,350",INV003,Not Paid,Not Delivered
+02/01/2022,Mike,Total Wine,Tequila,150,$40,"$6,000","$6,000",INV004,Paid,Delivered
+02/01/2022,Sarah,Wine World,Rum,100,$20,"$2,000","$1,800",INV005,Not Paid,Not Delivered
+02/01/2022,John,ABC Liquor,Gin,50,$35,"$1,750","$1,750",INV006,Paid,Delivered
+03/01/2022,Sarah,SuperMart,Tequila,75,$40,"$3,000","$2,700",INV007,Not Paid,Not Delivered
+03/01/2022,Mike,BevMo,Vodka,100,$25,"$2,500","$2,500",INV008,Paid,Delivered
+03/01/2022,Mike,Total Wine,Whiskey,150,$30,"$4,500","$4,500",INV009,Paid,Delivered
+04/01/2022,John,XYZ Liquor,Rum,50,$20,"$1,000",$800,INV010,Not Paid,Not Delivered
+04/01/2022,Sarah,Wine World,Gin,100,$35,"$3,500","$3,500",INV011,Paid,Delivered
+04/01/2022,Mike,BevMo,Tequila,75,$40,"$3,000","$2,400",INV012,Not Paid,Not Delivered
+05/01/2022,Mike,Total Wine,Vodka,150,$25,"$3,750","$3,750",INV013,Paid,Delivered
+06/01/2022,Sarah,SuperMart,Gin,75,$35,"$2,625","$2,625",INV014,Paid,Delivered
+06/01/2022,Mike,BevMo,Whiskey,50,$30,"$1,500","$1,350",INV015,Not Paid,Not Delivered
+06/01/2022,John,XYZ Liquor,Vodka,100,$25,"$2,500","$2,500",INV016,Paid,Delivered
+07/01/2022,Mike,Total Wine,Tequila,150,$40,"$6,000","$6,000",INV017,Paid,Delivered
+07/01/2022,Sarah,Wine World,Rum,100,$20,"$2,000","$1,800",INV018,Not Paid,Not Delivered
+07/01/2022,John,ABC Liquor,Gin,50,$35,"$1,750","$1,750",INV019,Paid,Delivered
+08/01/2022,Sarah,SuperMart,Tequila,75,$40,"$3,000","$2,700",INV020,Not Paid,Not Delivered
+08/01/2022,Mike,BevMo,Vodka,100,$25,"$2,500","$2,500",INV021,Paid,Delivered
+08/01/2022,Mike,Total Wine,Whiskey,150,$30,"$4,500","$4,500",INV022,Paid,Delivered
+09/01/2022,John,XYZ Liquor,Rum,50,$20,"$1,000",$800,INV023,Not Paid,Not Delivered
+09/01/2022,Sarah,Wine World,Gin,100,$35,"$3,500","$3,500",INV024,Paid,Delivered
+09/01/2022,Mike,BevMo,Tequila,75,$40,"$3,000","$2,400",INV025,Not Paid,Not Delivered
+10/01/2022,Mike,Total Wine,Vodka,150,$25,"$3,750","$3,750",INV026,Paid,Delivered
+06/01/2022,Sarah,SuperMart,Gin,75,$35,"$2,625","$2,625",INV014,Paid,Delivered
+06/01/2022,Mike,BevMo,Whiskey,50,$30,"$1,500","$1,350",INV015,Not Paid,Not Delivered
+06/01/2022,John,XYZ Liquor,Vodka,100,$25,"$2,500","$2,500",INV016,Paid,Delivered
+07/01/2022,Mike,Total Wine,Tequila,150,$40,"$6,000","$6,000",INV017,Paid,Delivered
+07/01/2022,Sarah,Wine World,Rum,100,$20,"$2,000","$1,800",INV018,Not Paid,Not Delivered
+07/01/2022,John,ABC Liquor,Gin,50,$35,"$1,750","$1,750",INV019,Paid,Delivered
+08/01/2022,Sarah,SuperMart,Tequila,75,$40,"$3,000","$2,700",INV020,Not Paid,Not Delivered
+08/01/2022,Mike,BevMo,Vodka,100,$25,"$2,500","$2,500",INV021,Paid,Delivered
+08/01/2022,Mike,Total Wine,Whiskey,150,$30,"$4,500","$4,500",INV022,Paid,Delivered
+09/01/2022,John,XYZ Liquor,Rum,50,$20,"$1,000",$800,INV023,Not Paid,Not Delivered
+09/01/2022,Sarah,Wine World,Gin,100,$35,"$3,500","$3,500",INV024,Paid,Delivered
+09/01/2022,Mike,BevMo,Tequila,75,$40,"$3,000","$2,400",INV025,Not Paid,Not Delivered
+10/01/2022,Mike,Total Wine,Vodka,150,$25,"$3,750","$3,750",INV026,Paid,Delivered
+10/01/2022,Sarah,SuperMart,Rum,100,$20,"$2,000","$2,000",INV027,Paid,Delivered
+11/01/2022,John,XYZ Liquor,Gin,75,$35,"$2,625","$2,625",INV028,Not Paid,Not Delivered
+11/01/2022,Mike,BevMo,Tequila,50,$40,"$2,000","$2,000",INV029,Paid,Delivered
+11/01/2022,Sarah,Wine World,Vodka,100,$25,"$2,500","$2,250",INV030,Not Paid,Not Delivered
+12/01/2022,Mike,Total Wine,Whiskey,150,$30,"$4,500","$4,050",INV031,Paid,Delivered
+12/01/2022,John,ABC Liquor,Rum,100,$20,"$2,000","$1,800",INV032,Not Paid,Not Delivered
+12/01/2022,Sarah,SuperMart,Gin,75,$35,"$2,625","$2,250",INV033,Not Paid,Not Delivered
+13/01/2022,Mike,BevMo,Vodka,100,$25,"$2,500","$2,250",INV034,Not Paid,Not Delivered
+13/01/2022,Sarah,Wine World,Tequila,150,$40,"$6,000","$6,000",INV035,Paid,Delivered
+13/01/2022,John,XYZ Liquor,Whiskey,50,$30,"$1,500","$1,350",INV036,Not Paid,Not Delivered
+14/01/2022,Mike,Total Wine,Gin,75,$35,"$2,625","$2,625",INV037,Paid,Delivered
+14/01/2022,Sarah,SuperMart,Rum,50,$20,"$1,000","$1,000",INV038,Paid,Delivered
+14/01/2022,John,ABC Liquor,Tequila,100,$40,"$4,000","$3,600",INV039,Not Paid,Not Delivered
+022-01-15,John,XYZ Liquor,Vodka,75,$25,"$1,875","$1,687.50",INV040,Not Paid,Not Delivered
+15/01/2022,Mike,BevMo,Whiskey,100,$30,"$3,000","$2,700",INV041,Paid,Delivered
+15/01/2022,Sarah,SuperMart,Gin,50,$35,"$1,750","$1,750",INV042,Paid,Delivered
+16/01/2022,John,ABC Liquor,Rum,75,$20,"$1,500","$1,200",INV043,Not Paid,Not Delivered
+16/01/2022,Sarah,Wine World,Tequila,100,$40,"$4,000","$3,600",INV044,Not Paid,Not Delivered
+16/01/2022,Mike,Total Wine,Vodka,150,$25,"$3,750","$3,375",INV045,Paid,Delivered
+17/01/2022,Sarah,SuperMart,Whiskey,75,$30,"$2,250","$2,025",INV046,Not Paid,Not Delivered
+17/01/2022,John,XYZ Liquor,Gin,100,$35,"$3,500","$3,150",INV047,Paid,Delivered
+17/01/2022,Mike,BevMo,Rum,50,$20,"$1,000",$900,INV048,Not Paid,Not Delivered
+18/01/2022,Sarah,Wine World,Vodka,75,$25,"$1,875","$1,687.50",INV049,Not Paid,Not Delivered
+18/01/2022,John,ABC Liquor,Tequila,100,$40,"$4,000","$3,200",INV050,Not Paid,Not Delivered
+18/01/2022,Mike,Total Wine,Whiskey,100,$30,"$3,000","$2,700",INV051,Paid,Delivered
+19/01/2022,Sarah,SuperMart,Rum,50,$20,"$1,000",$800,INV052,Not Paid,Not Delivered
+19/01/2022,Mike,BevMo,Gin,75,$35,"$2,625","$2,362.50",INV053,Paid,Delivered
+20/01/2022,Sarah,Wine World,Whiskey,100,$30,"$3,000","$2,700",INV054,Not Paid,Not Delivered
+20/01/2022,John,ABC Liquor,Vodka,75,$25,"$1,875","$1,406.25",INV055,Paid,Delivered
+20/01/2022,Mike,Total Wine,Tequila,100,$40,"$4,000","$3,600",INV056,Paid,Delivered
+21/01/2022,Sarah,SuperMart,Gin,50,$35,"$1,750","$1,750",INV057,Paid,Delivered
+21/01/2022,John,XYZ Liquor,Rum,75,$20,"$1,500","$1,350",INV058,Not Paid,Not Delivered
+21/01/2022,Mike,BevMo,Vodka,150,$25,"$3,750","$3,375",INV059,Paid,Delivered
+22/01/2022,Sarah,Wine World,Tequila,75,$40,"$3,000","$2,700",INV060,Not Paid,Not Delivered
+22/01/2022,John,ABC Liquor,Gin,100,$35,"$3,500","$3,150",INV061,Paid,Delivered
+22/01/2022,Mike,Total Wine,Rum,50,$20,"$1,000",$900,INV062,Not Paid,Not Delivered
+23/01/2022,Sarah,SuperMart,Vodka,75,$25,"$1,875","$1,687.50",INV063,Not Paid,Not Delivered
+23/01/2022,John,XYZ Liquor,Whiskey,100,$30,"$3,000","$2,700",INV064,Paid,Delivered
+23/01/2022,Mike,BevMo,Gin,75,$35,"$2,625","$2,362.50",INV065,Paid,Delivered
