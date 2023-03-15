@@ -1,2 +1,2 @@
 # Equipo5Corajillo
-Actividad Profe Ivan (Si aprendimos todos)
+Github con el codigo streamlit para la creacion del pagina wed donde se muestra el excel
